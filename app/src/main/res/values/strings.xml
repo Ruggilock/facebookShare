@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sharetest</string>
+    <string name="facebook_app_id">392432531243449</string>
+    <string name="facebook_login_protocol_scheme">fb392432531243449</string>
+</resources>
